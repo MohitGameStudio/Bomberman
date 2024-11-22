@@ -1,1 +1,1 @@
-# Bomberman Game 🎮
+# Bomberman 🎮
